@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.StackGameWithUnityTianjie",
+    "bundleName": "com.hmosdemos.wearable.stack_game_with_unity_tuanjie",
     "vendor": "hmosdemos",
     "versionCode": 1,
     "versionName": "0.1",
@@ -10,3 +10,6 @@
     "asanEnabled": false
   }
 }
+
+
+
